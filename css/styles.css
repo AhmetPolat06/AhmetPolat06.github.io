@@ -1,0 +1,48 @@
+h1{
+  color: black;
+}
+h3{
+      font:  Verdana;
+      color: darkred;
+ }
+h4{
+  color: firebrick;
+}
+h2{
+  color: black;
+  font: times;
+}
+p{
+  font-style: Times;
+}
+p{
+  font-size: 12pt;
+}
+SPAN{
+  font-variant: small-caps;
+}
+p{
+  line-height: 200%;
+}
+.border {
+   border-width: 5px;
+    border-color: grey;
+   border-style: solid;
+   border-radius: 40px 40px 40px 40px;
+ }
+.shadow {
+   box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+#ax{
+  color: black;
+  font: Verdana;
+}
+
+.personal{
+  color: #91171f;
+}
+.professional{
+  font-style: italic;
+  color: black;
+}
